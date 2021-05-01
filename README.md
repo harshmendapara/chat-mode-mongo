@@ -1,4 +1,3 @@
-Details here https://www.freecodecamp.org/news/create-a-professional-node-express/
 
 ### Prerequisites
 
@@ -40,7 +39,6 @@ This project will do the following
 
 ### Learning
 
-Youtube links: https://www.youtube.com/playlist?list=PLH6pGK5zEj9mO-yS9FjQ6xhJXUagoEgOh
 
 ## Tutorial
 
@@ -48,4 +46,3 @@ Tutorial Article: https://www.freecodecamp.org/news/create-a-professional-node-e
 
 ## Useful links
 
-- Postman tutorial https://www.youtube.com/watch?v=FjgYtQK_zLE
