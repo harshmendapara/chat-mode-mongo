@@ -1,0 +1,23 @@
+{
+  "name": "chapter-1-chat",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server/index.js",
+    "start:server": "node server/index.js"
+  },
+  "dependencies": {
+    "@withvoid/make-validation": "1.0.5",
+    "cors": "2.8.5",
+    "express": "4.16.1",
+    "jsonwebtoken": "8.5.1",
+    "mongoose": "5.9.18",
+    "morgan": "1.9.1",
+    "socket.io": "2.3.0",
+    "uuid": "8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  }
+}
